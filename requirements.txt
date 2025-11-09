@@ -1,0 +1,10 @@
+streamlit==1.30.0
+pandas
+scikit-learn
+nltk
+spacy
+PyPDF2
+python-docx
+sentence-transformers
+tqdm
+joblib

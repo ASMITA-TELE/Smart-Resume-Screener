@@ -1,0 +1,20 @@
+1.Data Analyst
+We are seeking a Data Analyst who can interpret data, analyze results using statistical techniques, and provide ongoing reports. The candidate should have strong skills in SQL, Excel, Python, and data visualization tools such as Power BI or Tableau. Experience in cleaning, transforming, and modeling data is essential. Knowledge of data analytics, business intelligence, and problem-solving is a plus.
+
+
+
+2.Machine Learning Engineer
+We are looking for a Machine Learning Engineer with expertise in building, training, and deploying ML models. Must have strong Python programming skills, familiarity with TensorFlow or PyTorch, and experience in data preprocessing and feature engineering. Knowledge of cloud-based ML platforms is a plus.
+
+
+3.Business Analyst
+We are seeking a Business Analyst to bridge the gap between business needs and technical implementation. The ideal candidate should be able to gather and document requirements, perform data analysis, and help improve business processes. Proficiency in Excel, SQL, and data visualization tools such as Power BI or Tableau is required. Strong communication, stakeholder management, and analytical thinking skills are essential. Experience with Agile methodology and preparing reports is preferred.
+
+
+4.Frontend Developer
+We are seeking a Frontend Developer to design and build interactive, responsive web applications. The ideal candidate should have strong skills in HTML, CSS, JavaScript, and modern frameworks like React or Angular. Experience with RESTful APIs, Git, and responsive design is required. Knowledge of UI/UX principles and cross-browser compatibility is a plus.
+
+
+5.Software Engineer
+We are looking for a Software Engineer to design, develop, and maintain software applications. The candidate should have strong programming skills in Python, Java, or C++. Experience with software development life cycle (SDLC), version control (Git), and problem-solving is essential. Familiarity with databases (MySQL or PostgreSQL), API integration, and Agile methodology is a plus
+
